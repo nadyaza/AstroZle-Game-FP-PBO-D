@@ -6,8 +6,8 @@ jika live nya habis maka game ini akan selesai atau "Game Over".
 
 Untuk fitur lanjutan dari game ini akan diberikan misi untuk mengumpulkan suatu kata yang berhubungan dengan luar angkasa,
 dan Astronot ini akan mencari tiap hurufnya agar membentuk suatu kata yang sudah di setting sebelumnya, jika misi ini berhasil,
-maka bisa melanjutkan ke babak selanjutnya. Namun, sebelum itu kita akan ditampilkan pop up pengetahuan tentang kata yang dijadikan misi tadi
-Selain seru memikirkan stategi agar bisa menghindari serangan alien pesawat dan baru, kita juga akan mendapatkan ilmu baru
+maka bisa melanjutkan ke babak selanjutnya. Namun, sebelum itu kita akan ditampilkan pop up pengetahuan tentang kata yang dijadikan misi tadi.
+Selain seru memikirkan strategi agar bisa menghindari serangan alien pesawat dan batu, kita juga akan mendapatkan ilmu baru tentang istilah-istilah luar angkasa
 
 Untuk tampilannya ada di bawah ini
 
